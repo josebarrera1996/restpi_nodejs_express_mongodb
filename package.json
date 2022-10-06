@@ -1,0 +1,16 @@
+{
+  "name": "crud_rest_api_node_mongodb",
+  "version": "1.0.0",
+  "description": "CRUD REST API using Node | Express | MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "José Barrera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.4"
+  }
+}
